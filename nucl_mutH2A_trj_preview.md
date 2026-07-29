@@ -1,4 +1,4 @@
-### N<sub>mutH2A</sub> - Nucleosome with mutated H2A with full tails (PDB ID 5AV9)
+### N<sub>mutH2A</sub> - Nucleosome with mutated H2A with truncated tails (PDB ID 5AV9)
 [Back](https://intbio.github.io/Kosarim_et_al_2026)
 
 <html lang="en">
