@@ -1,4 +1,4 @@
-### N<sub>WT</sub> - Nucleosome with wild-type H2A.J with full tails (PDB ID 5AV9)
+### N<sub>mutH2B</sub> - Nucleosome with mutated H2B with truncated tails (PDB ID 5AV9)
 [Back](https://intbio.github.io/Kosarim_et_al_2026)
 
 <html lang="en">
