@@ -50,7 +50,7 @@
 <script>
   var pdb="trj/nucl_WT_for_web.pdb"
   var xtc="trj/nucl_WT_for_web.xtc"
-  ### var csvfile="dat/H2AJ_dist_unwrap.csv"
+  var csvfile="dat/H2AJ_dist_unwrap.csv"
   var trjstep = 10;
   $(document).ready(function() {
     window.stage = new NGL.Stage("viewport0", {
