@@ -1,4 +1,4 @@
-### N<sub>mutH2A/H2B</sub> - Nucleosome with mutated dimer with full tails (PDB ID 5AV9)
+### N<sub>mutH2A/H2B</sub> - Nucleosome with mutated dimer with truncated tails (PDB ID 5AV9)
 [Back](https://intbio.github.io/Kosarim_et_al_2026)
 
 <html lang="en">
