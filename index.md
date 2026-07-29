@@ -19,6 +19,8 @@
 
 
 ### Trajectory files
+- N<sub>WT</sub> - Wild-type H2A containing nucleosome without tails (PDB ID 5AV9): [pdb](trj/WT_nucl_for_web.pdb), [xtc](trj/WT_nucl_for_web.xtc)
+
 - N<sub>cH2A</sub><sup>run_1</sup> - Canonical nucleosome with full tails (PDB ID 5AV9), run_1: [pdb](trj/canon_nucl_for_web.pdb), [xtc](trj/canon_nucl_for_web.xtc)
 - N<sub>cH2A</sub><sup>run_2</sup> - Canonical nucleosome with full tails (PDB ID 5AV9), run_2: [pdb](trj/canon_nucl_for_web_2.pdb), [xtc](trj/canon_nucl_for_web_2.xtc)
 - N<sub>H2A.J</sub><sup>run_1</sup> - Nucleosome with H2A.J with full  tails (PDB ID 5AV9), run_1: [pdb](trj/nucl_H2AJ_for_web.pdb), [xtc](trj/nucl_H2AJ_for_web.xtc)
