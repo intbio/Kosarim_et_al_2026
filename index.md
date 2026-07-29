@@ -6,6 +6,8 @@
 [https://github.com/intbio/Kosarim_et_al_2024](https://github.com/intbio/Kosarim_et_al_2024)
 
 ### Interactive preview of MD trajectories
+- [N<sub>WT</sub> - Wild-type H2A containing nucleosome without tails (PDB ID 5AV9)](nucl_WT_trj_preview)
+
 - [N<sub>cH2A</sub><sup>run_1</sup> - Canonical nucleosome with full tails (PDB ID 5AV9), run_1](nucl_canon_trj_preview)
 - [N<sub>cH2A</sub><sup>run_2</sup> - Canonical nucleosome with full tails (PDB ID 5AV9), run_2](nucl_canon_trj_2_preview)
 - [N<sub>H2A.J</sub><sup>run_1</sup> - Nucleosome with H2A.J with full  tails (PDB ID 5AV9), run_1](nucl_H2AJ_trj_preview)
