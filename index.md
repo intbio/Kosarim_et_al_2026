@@ -16,3 +16,6 @@
 - N<sub>mutH2A</sub> - Mutated-H2A containing nucleosome without tails (PDB ID 5AV9): [pdb](trj/nucl_mutH2A_for_web.pdb), [xtc](trj/nucl_mutH2A_for_web.xtc)
 - N<sub>mutH2B</sub> - Mutated-H2B containing nucleosome without tails (PDB ID 5AV9): [pdb](trj/nucl_mutH2B_for_web.pdb), [xtc](trj/nucl_mutH2B_for_web.xtc)
 - N<sub>mutH2A/H2B</sub> - Mutated-dimer containing nucleosome without tails (PDB ID 5AV9): [pdb](trj/nucl_mutH2A-H2B_for_web.pdb), [xtc](trj/nucl_mutH2A-H2B_for_web.xtc)
+
+### Protocols
+- [Production run MDP-file for Gromacs](protocols/MD_production_protocol.mdp)
