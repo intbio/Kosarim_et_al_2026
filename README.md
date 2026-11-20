@@ -4,6 +4,7 @@ This repository contains supplementary data for
 The best way to view it is to use the interactive web site rendered through GitHub pages from this repository at http://intbio.github.io/Kosarim_et_al_2026/
 
 Alternativelly, you can browse the following folders:
-1. [trj](trj) - MD trajectories
+1. [trj](trj) - main MD trajectories
+2. [supp_trj](supp_trj) - supplementary trajectories
 
 
