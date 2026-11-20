@@ -1,6 +1,6 @@
 # Supplementary data
 ## Canonical Histone Isoforms and their effects on Nucleosome  Structure: A Molecular Dynamics Perspective
-[Nikita A.Kosarim, ... and Alexey K.Shaytan](https://doi.org/-------)
+[Nikita A.Kosarim, Alexey K.Shaytan, and Kostantin V. Shaitan](https://doi.org/-------)
 
 ### GitHub repository
 [https://github.com/intbio/Kosarim_et_al_2026](https://github.com/intbio/Kosarim_et_al_2026)
